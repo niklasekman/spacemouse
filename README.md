@@ -11,10 +11,16 @@ Installation
 ------------
 
 Assuming Ubuntu, the following command should install dependencies and the open source driver:
+
 	apt-get install libx11-dev libxdo-dev libspnav-dev spacenavd
+
 Then clone this repository:
+
 	git clone https://github.com/niklasekman/spacemouse.git
+
 Compile and run:
+
 	make
 	./spacemouse
+
 
